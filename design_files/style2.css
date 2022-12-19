@@ -3,8 +3,7 @@
     font-family: cursive;
     font-size: 40px;
 }
-.img
+.bg_food
 {
-    height: 40px;
-    width: 40px;
+    background-image: url(https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=600);
 }
